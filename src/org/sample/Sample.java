@@ -10,7 +10,7 @@ private void Tc1() {
 	Sample b = new Sample();
 	b.Tc1();
 	
-	
+	System.out.println("bala");
 	
 	
 }
